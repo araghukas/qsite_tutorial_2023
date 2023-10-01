@@ -1,4 +1,4 @@
-covalent==0.220.0
+covalent[qiskit]
 covalent-awsbatch-plugin==0.26.0
 covalent-slurm-plugin==0.12.1
 matplotlib==3.8.0
