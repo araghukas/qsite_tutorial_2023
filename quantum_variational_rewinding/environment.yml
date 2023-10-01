@@ -1,0 +1,7 @@
+name: QVR
+dependencies:
+  - python=3.10.12
+  - pip
+  - ipywidgets
+  - pip:
+    - -r requirements.txt
